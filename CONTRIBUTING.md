@@ -8,7 +8,7 @@ Thank you for your interest in contributing to TV Remote! This document provides
 
 - Linux with Flatpak support
 - `flatpak` and `flatpak-builder` installed
-- GNOME SDK runtime: `org.gnome.Sdk//49`
+- GNOME SDK runtime: `org.gnome.Sdk//51`
 
 ### Building
 
