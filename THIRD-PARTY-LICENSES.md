@@ -27,11 +27,6 @@ This project uses several third-party software components. Their licenses are li
 - **Copyright:** Copyright (C) 2018-2024 Genymobile
 - **Note:** The `scrcpy-server` binary is downloaded and bundled during the Flatpak build process to provide low-latency input injection.
 
-### [Android Platform Tools (adb)](https://developer.android.com/studio/releases/platform-tools)
-- **License:** Apache License 2.0 / Android Software Development Kit License
-- **Copyright:** Copyright (c) The Android Open Source Project
-- **Note:** The `adb` binary is included in the Flatpak distribution for communication with Android devices.
-
 ---
 
 For the full text of these licenses, please refer to their respective project repositories.
